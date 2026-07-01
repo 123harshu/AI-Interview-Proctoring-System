@@ -1,4 +1,4 @@
-# 👁️ EyeContactAI1
+# 👁️ AI-Interview-Proctoring-System
 
 An AI-based real-time eye contact and attention tracking system built using **Python**, **OpenCV**, and **MediaPipe**. The application monitors user attention by detecting head movements, face presence, and multiple faces, making it suitable for online interview proctoring and attention monitoring.
 
